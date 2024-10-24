@@ -1,4 +1,4 @@
-<h3 align="center">Initiating my development era</h3>
+<h3 align="cente" Stepping into to the world of development</h3>
 
 - My first python project [Tick-tac-toe game](https://github.com/Anooshashraf/TIC-TAC-TOE-repo)
 
